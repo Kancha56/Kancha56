@@ -19,7 +19,7 @@ I’m looking for new opportunities to learn and grow in the tech industry. Feel
 ---
 
 ### 🌱 What I’m Currently Learning  
-- Programming (like **Java**, **JavaScript**, **PHP**, **HTML**, **CSS**)  
+- Programming (like **Java**, **JavaScript**, **PHP**, **HTML**, **CSS**, **SQL**)  
 - Web development  
 - Using **Git** and **GitHub** to manage code  
 - **Selenium Framework** for automated testing  

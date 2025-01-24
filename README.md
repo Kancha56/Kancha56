@@ -9,7 +9,7 @@
 ## Hi there 👋
 
 ### 👩‍💻 About Me  
-Hello! My name is **O** 🎉  
+Hello! My name is **Oh** 🎉  
 I have over **11 years of experience** in sales, specializing in communication and understanding people. ✨  
 
 I’m now exploring the world of technology and building new skills. My past experience in customer relations and problem-solving helps me adapt quickly to this exciting field.  
@@ -34,9 +34,9 @@ I’m looking for new opportunities to learn and grow in the tech industry. Feel
 ---
 
 ### 🤝 Let’s Connect  
-- 📫 **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- 💼 **LinkedIn**: [Your LinkedIn Profile Link]  
-- 🌐 **Portfolio**: [Your Portfolio Link, if available]  
+- 📫 **Email**: [ooh.kancha@gmail.com](mailto:ooh.kancha@gmail.com)  
+- 💼 **LinkedIn**: www.linkedin.com/in/khanoon-infinity-82495328b
+- 🌐 **Portfolio**: https://portfolio-i-amoh.web.app/
 
 ---
 
